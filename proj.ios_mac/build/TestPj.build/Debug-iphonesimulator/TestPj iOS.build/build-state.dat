@@ -1,0 +1,2572 @@
+TTestPj iOS
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Info.plist /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Info.plist
+cCpResource ios/Icon-120.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-120.png
+cCpResource ios/Icon-76.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-76.png
+cCpResource ios/Default@2x.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Default@2x.png
+cCpResource ios/Icon-100.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-100.png
+cCpResource /Users/kodamatakashi/Documents/TestPj/Resources/CloseNormal.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/CloseNormal.png
+cCpResource ios/Icon-152.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-152.png
+cCpResource ios/Default-568h@2x.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Default-568h@2x.png
+cCpResource ios/Icon-72.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-72.png
+cCpResource /Users/kodamatakashi/Documents/TestPj/Resources/CloseSelected.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/CloseSelected.png
+cCpResource ios/Icon-50.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-50.png
+cCpResource ios/Icon-114.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-114.png
+cCpResource /Users/kodamatakashi/Documents/TestPj/Resources/HelloWorld.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/HelloWorld.png
+cCpResource ios/Icon-29.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-29.png
+cCpResource ios/Icon-40.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-40.png
+cCpResource ios/Icon-144.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-144.png
+cCpResource ios/Icon-80.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-80.png
+cCpResource ios/Icon-57.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-57.png
+cCpResource ios/Default.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Default.png
+cCpResource ios/Icon-58.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-58.png
+cProcessPCH++ /var/folders/02/5yl6qgx90kl8tjr117sjz5fw0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-fuchmruxtwrdiocpkkivpkfyclva/Prefix.pch.pch ios/Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH++ /var/folders/02/5yl6qgx90kl8tjr117sjz5fw0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-ewqptykyjvhxzufkwzkirsoohbrn/Prefix.pch.pch ios/Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/02/5yl6qgx90kl8tjr117sjz5fw0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-bpnonnljwmywruaksaclrxnygysr/Prefix.pch.pch ios/Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/Objects-normal/i386/AppController.o /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/AppController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/Objects-normal/i386/RootViewController.o /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/RootViewController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/Objects-normal/i386/AppDelegate.o /Users/kodamatakashi/Documents/TestPj/Classes/AppDelegate.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/Objects-normal/i386/main.o /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/Objects-normal/i386/HelloWorldScene.o /Users/kodamatakashi/Documents/TestPj/Classes/HelloWorldScene.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/TestPj\ iOS normal i386
+cGenerateDSYMFile /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app.dSYM /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/TestPj\ iOS
+cTouch /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreMotion.framework/CoreMotion
+c00000000527843B0000000000027C450
+t1383613360
+s2606160
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000532946FC00000000000003B4
+t1395214076
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053294700000000000000019E
+t1395214080
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c00000000532947010000000000484210
+t1395214081
+s4735504
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+c00000000532947010000000000098030
+t1395214081
+s622640
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c00000000532947020000000000904120
+t1395214082
+s9453856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000005329470100000000005B82F0
+t1395214081
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000532947010000000000446820
+t1395214081
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMotion.framework/CoreMotion
+c000000005329470200000000001D2FF0
+t1395214082
+s1912816
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000053294702000000000088D8C0
+t1395214082
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c0000000053294703000000000007C0D0
+t1395214083
+s508112
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000532947030000000000037680
+t1395214083
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000053294703000000000048F720
+t1395214083
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000532947050000000001F1DE10
+t1395214085
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c000000005329470E00000000002BC360
+t1395214094
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c00000000532947110000000000002338
+t1395214097
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c0000000053294711000000000008D370
+t1395214097
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libc++.dylib
+c000000005329471100000000001730B0
+t1395214097
+s1519792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libc++abi.dylib
+c000000005329471100000000000681A0
+t1395214097
+s426400
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c00000000532947110000000000392E20
+t1395214097
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libz.dylib
+c0000000053294711000000000002B700
+t1395214097
+s177920
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c00000000500B631300000000000121D0
+t1342923539
+s74192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c00000000532947110000000000014A80
+t1395214097
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000532947110000000000033BA0
+t1395214097
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c0000000053294711000000000001CFB0
+t1395214097
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c0000000053294711000000000001B2B0
+t1395214097
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c000000005329471100000000000C9570
+t1395214097
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c00000000532947110000000000063280
+t1395214097
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000532947110000000000008880
+t1395214097
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c00000000532947110000000000015080
+t1395214097
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c000000005329471100000000000230F0
+t1395214097
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c0000000053294711000000000000E380
+t1395214097
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c00000000532947110000000000089380
+t1395214097
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c00000000532947110000000000017320
+t1395214097
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000532947110000000000039CD0
+t1395214097
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c0000000053294711000000000000B0B0
+t1395214097
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000532947120000000000167E80
+t1395214098
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c000000005329471100000000000106A0
+t1395214097
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c0000000053294711000000000001CE40
+t1395214097
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c000000005329471100000000000740C0
+t1395214097
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c0000000053294711000000000006CA60
+t1395214097
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c0000000053294711000000000001BAD0
+t1395214097
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c00000000532947120000000000084A20
+t1395214098
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphonesimulator.a
+c000000005329471E000000000000BB48
+t1395214110
+s47944
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c000000005329471E000000000000514C
+t1395214110
+s20812
+
+N/Users/kodamatakashi/Documents/TestPj/Classes/AppDelegate.cpp
+c00000000533A8B840000000000000558
+t1396345732
+s1368
+
+N/Users/kodamatakashi/Documents/TestPj/Classes/AppDelegate.h
+c00000000533A8B8400000000000003B3
+t1396345732
+s947
+
+N/Users/kodamatakashi/Documents/TestPj/Classes/HelloWorldScene.cpp
+c00000000533A94FA0000000000000AB2
+t1396348154
+s2738
+
+N/Users/kodamatakashi/Documents/TestPj/Classes/HelloWorldScene.h
+c00000000533A8B840000000000000264
+t1396345732
+s612
+
+N/Users/kodamatakashi/Documents/TestPj/Resources/CloseNormal.png
+c00000000533A8B8400000000000018A7
+t1396345732
+s6311
+
+N/Users/kodamatakashi/Documents/TestPj/Resources/CloseSelected.png
+c00000000533A8B84000000000000157B
+t1396345732
+s5499
+
+N/Users/kodamatakashi/Documents/TestPj/Resources/HelloWorld.png
+c00000000533A8B840000000000021E19
+t1396345732
+s138777
+
+N/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app
+t1398387251
+s816
+
+N/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app.dSYM
+t1398063040
+s102
+
+N/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/CloseNormal.png
+t1398387250
+s6311
+
+N/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/CloseSelected.png
+t1398387250
+s5499
+
+N/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Default-568h@2x.png
+t1398387250
+s193731
+
+N/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Default.png
+t1398387250
+s89508
+
+N/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Default@2x.png
+t1398387250
+s580904
+
+N/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/HelloWorld.png
+t1398387250
+s138777
+
+N/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Icon-100.png
+t1398387250
+s17283
+
+N/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Icon-114.png
+t1398387250
+s16537
+
+N/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Icon-120.png
+t1398387250
+s23871
+
+N/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Icon-144.png
+t1398387250
+s26403
+
+N/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Icon-152.png
+t1398387250
+s33665
+
+N/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Icon-29.png
+t1398387250
+s4038
+
+N/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Icon-40.png
+t1398387250
+s5478
+
+N/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Icon-50.png
+t1398387250
+s7038
+
+N/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Icon-57.png
+t1398387250
+s8960
+
+N/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Icon-58.png
+t1398387250
+s8433
+
+N/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Icon-72.png
+t1398387250
+s11453
+
+N/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Icon-76.png
+t1398387250
+s13250
+
+N/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Icon-80.png
+t1398387250
+s12489
+
+N/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Info.plist
+t1398387250
+s1155
+
+N/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/PkgInfo
+t1398387250
+s8
+
+N/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/TestPj iOS
+t1398387251
+s7861024
+
+N/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/libCocosDenshion iOS.a
+c000000005359B2320000000000055218
+t1398387250
+s348696
+
+N/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/libbox2d iOS.a
+c000000005359B23200000000001CE800
+t1398387250
+s1894400
+
+N/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/libchipmunk iOS.a
+c000000005359B22B00000000000BF080
+t1398387243
+s782464
+
+N/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/libcocos2dx iOS.a
+c000000005359B231000000000CD41978
+t1398387249
+s215226744
+
+N/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/libcocos2dx-extensions iOS.a
+c000000005359B2310000000001419B18
+t1398387249
+s21076760
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCAction.h
+c00000000533A94FA000000000000211D
+t1396348154
+s8477
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionCamera.h
+c00000000533A94FA000000000000100D
+t1396348154
+s4109
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionCatmullRom.h
+c00000000533A8B820000000000002037
+t1396345730
+s8247
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionEase.h
+c00000000533A94FA0000000000005CAF
+t1396348154
+s23727
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionGrid.h
+c00000000533A94FA000000000000244E
+t1396348154
+s9294
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionGrid3D.h
+c00000000533A94FA0000000000002A86
+t1396348154
+s10886
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionInstant.h
+c00000000533A94FA0000000000002C08
+t1396348154
+s11272
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionInterval.h
+c00000000533A94FA000000000000810B
+t1396348154
+s33035
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionManager.h
+c00000000533A8B820000000000001376
+t1396345730
+s4982
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionPageTurn3D.h
+c00000000533A8B82000000000000088D
+t1396345730
+s2189
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionProgressTimer.h
+c00000000533A94FA0000000000000CCE
+t1396348154
+s3278
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionTiledGrid.h
+c00000000533A94FA0000000000002E81
+t1396348154
+s11905
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionTween.h
+c00000000533A94FA0000000000000C64
+t1396348154
+s3172
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCAnimation.h
+c00000000534C9D740000000000002345
+t1397529972
+s9029
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCAnimationCache.h
+c00000000533A8B820000000000001138
+t1396345730
+s4408
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCAtlasNode.h
+c00000000533A94FA0000000000001360
+t1396348154
+s4960
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCClippingNode.h
+c00000000533A94FA000000000000129B
+t1396348154
+s4763
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCComponent.h
+c00000000533A94FA0000000000000945
+t1396348154
+s2373
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCComponentContainer.h
+c00000000533A8B82000000000000081C
+t1396345730
+s2076
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCConfiguration.h
+c00000000534C9D7400000000000012FA
+t1397529972
+s4858
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCDirector.h
+c00000000533A94FA0000000000003E26
+t1396348154
+s15910
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCDrawNode.h
+c00000000533A94FA0000000000001097
+t1396348154
+s4247
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCDrawingPrimitives.h
+c00000000533A8B8200000000000016C5
+t1396345730
+s5829
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEvent.h
+c00000000533A8B820000000000000AD4
+t1396345730
+s2772
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventAcceleration.h
+c00000000533A8B820000000000000694
+t1396345730
+s1684
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventCustom.h
+c00000000533A8B82000000000000079E
+t1396345730
+s1950
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventDispatcher.h
+c00000000534C9D7400000000000029E5
+t1397529972
+s10725
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventKeyboard.h
+c00000000533A8B820000000000001E16
+t1396345730
+s7702
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventListener.h
+c00000000534CBE38000000000000187E
+t1397538360
+s6270
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventListenerAcceleration.h
+c00000000533A8B82000000000000086B
+t1396345730
+s2155
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventListenerCustom.h
+c00000000533A94FA0000000000000B6B
+t1396348154
+s2923
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventListenerKeyboard.h
+c00000000533A8B8200000000000007E4
+t1396345730
+s2020
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventListenerMouse.h
+c00000000533A8B8200000000000007FF
+t1396345730
+s2047
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventListenerTouch.h
+c00000000533A8B820000000000000C3F
+t1396345730
+s3135
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventMouse.h
+c00000000533A8B820000000000000AA7
+t1396345730
+s2727
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventTouch.h
+c00000000533A8B820000000000000874
+t1396345730
+s2164
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventType.h
+c00000000533A8B8200000000000007AD
+t1396345730
+s1965
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCFont.h
+c00000000533A94FA0000000000000991
+t1396348154
+s2449
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCFontAtlas.h
+c00000000533A94FA0000000000001076
+t1396348154
+s4214
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCFontFNT.h
+c00000000533A8B820000000000000921
+t1396345730
+s2337
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCGLProgram.h
+c00000000533A94FA0000000000002F09
+t1396348154
+s12041
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCGrabber.h
+c00000000533A8B8200000000000007E5
+t1396345730
+s2021
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCGrid.h
+c00000000533A8B820000000000001A0B
+t1396345730
+s6667
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCIMEDelegate.h
+c00000000533A94FA0000000000001104
+t1396348154
+s4356
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCIMEDispatcher.h
+c00000000533A94FA0000000000000EB8
+t1396348154
+s3768
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCLabel.h
+c00000000534C9D7400000000000035BB
+t1397529972
+s13755
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCLabelAtlas.h
+c00000000533A8B820000000000000FEE
+t1396345730
+s4078
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCLabelBMFont.h
+c00000000533A94FA000000000000131C
+t1396348154
+s4892
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCLabelTTF.h
+c00000000533A94FA0000000000001793
+t1396348154
+s6035
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCLayer.h
+c00000000534C9D740000000000005088
+t1397529972
+s20616
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCMenu.h
+c00000000533A94FA0000000000001A04
+t1396348154
+s6660
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCMenuItem.h
+c00000000534C9D740000000000004FC7
+t1397529972
+s20423
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCMotionStreak.h
+c00000000533A94FA0000000000001585
+t1396348154
+s5509
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCNode.h
+c00000000534C9D74000000000000CF17
+t1397529972
+s53015
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCNodeGrid.h
+c00000000533A8B82000000000000095D
+t1396345730
+s2397
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCParallaxNode.h
+c00000000533A8B820000000000000CF1
+t1396345730
+s3313
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCParticleBatchNode.h
+c00000000533A94FA0000000000001755
+t1396348154
+s5973
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCParticleExamples.h
+c00000000533A94FA0000000000001E3F
+t1396348154
+s7743
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCParticleSystem.h
+c00000000534C9D740000000000004EE0
+t1397529972
+s20192
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCParticleSystemQuad.h
+c00000000533A94FA0000000000001307
+t1396348154
+s4871
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCProfiling.h
+c00000000533A8B820000000000000F46
+t1396345730
+s3910
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCProgressTimer.h
+c00000000533A94FA00000000000015FC
+t1396348154
+s5628
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCProtocols.h
+c00000000533A8B820000000000001D18
+t1396345730
+s7448
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCRenderTexture.h
+c00000000533A8B820000000000002645
+t1396345730
+s9797
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCScene.h
+c00000000533A94FA0000000000000B65
+t1396348154
+s2917
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCScheduler.h
+c00000000533A8B820000000000004101
+t1396345730
+s16641
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCScriptSupport.h
+c00000000534C9D740000000000002F34
+t1397529972
+s12084
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCShaderCache.h
+c00000000533A8B820000000000000BE3
+t1396345730
+s3043
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCSprite.h
+c00000000534CBE380000000000005511
+t1397538360
+s21777
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCSpriteBatchNode.h
+c00000000534C9D7400000000000020E0
+t1397529972
+s8416
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCSpriteFrame.h
+c00000000533A8B820000000000001791
+t1396345730
+s6033
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCSpriteFrameCache.h
+c00000000533A8B820000000000001937
+t1396345730
+s6455
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTMXLayer.h
+c00000000533A8B8200000000000027CC
+t1396345730
+s10188
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTMXObjectGroup.h
+c00000000533A8B820000000000000F47
+t1396345730
+s3911
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTMXTiledMap.h
+c00000000533A94FA0000000000001FCB
+t1396348154
+s8139
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTMXXMLParser.h
+c00000000533A8B8200000000000028A4
+t1396345730
+s10404
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTextFieldTTF.h
+c00000000533A94FA00000000000018EB
+t1396348154
+s6379
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTexture2D.h
+c00000000533A94FA00000000000041F2
+t1396348154
+s16882
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTextureAtlas.h
+c00000000533A8B820000000000002243
+t1396345730
+s8771
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTextureCache.h
+c00000000534C9D740000000000002447
+t1397529972
+s9287
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTileMapAtlas.h
+c00000000533A8B820000000000000F56
+t1396345730
+s3926
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTouch.h
+c00000000533A8B820000000000000BF1
+t1396345730
+s3057
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTransition.h
+c00000000533A94FA0000000000004EDE
+t1396348154
+s20190
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTransitionPageTurn.h
+c00000000533A8B820000000000000D8F
+t1396345730
+s3471
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTransitionProgress.h
+c00000000533A8B8200000000000010CE
+t1396345730
+s4302
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTweenFunction.h
+c00000000533A8B820000000000001014
+t1396345730
+s4116
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCUserDefault.h
+c00000000533A8B820000000000001602
+t1396345730
+s5634
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCVertex.h
+c00000000533A8B8200000000000007E4
+t1396345730
+s2020
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/ccCArray.h
+c00000000534C9D740000000000001FB4
+t1397529972
+s8116
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/ccConfig.h
+c00000000533A94FA00000000000027E3
+t1396348154
+s10211
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/ccGLStateCache.h
+c00000000533A8B82000000000000132E
+t1396345730
+s4910
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/ccMacros.h
+c00000000534C9D740000000000002CE8
+t1397529972
+s11496
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/ccShaders.h
+c00000000534C9D740000000000000AFC
+t1397529972
+s2812
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/ccTypes.h
+c00000000534C9D740000000000002A42
+t1397529972
+s10818
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/ccUTF8.h
+c00000000533A8B820000000000000FEC
+t1396345730
+s4076
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/cocos2d.h
+c00000000534C9D740000000000001F89
+t1397529972
+s8073
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/CCApplicationProtocol.h
+c00000000533A94FA0000000000000DB1
+t1396348154
+s3505
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/CCCommon.h
+c00000000533A8B8200000000000007A6
+t1396345730
+s1958
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/CCDevice.h
+c00000000533A8B820000000000000ABC
+t1396345730
+s2748
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/CCFileUtils.h
+c00000000534C9D7400000000000045EC
+t1397529972
+s17900
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/CCGLViewProtocol.h
+c00000000533A94FA0000000000001CF4
+t1396348154
+s7412
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/CCImage.h
+c00000000533A94FA0000000000001C55
+t1396348154
+s7253
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/CCSAXParser.h
+c00000000533A8B820000000000000B6D
+t1396345730
+s2925
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/CCThread.h
+c00000000533A8B820000000000000816
+t1396345730
+s2070
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/ios/CCApplication.h
+c00000000533A94FA0000000000000BEC
+t1396348154
+s3052
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/ios/CCEAGLView.h
+c00000000533A8B820000000000001DDE
+t1396345730
+s7646
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/ios/CCESRenderer.h
+c00000000533A8B8200000000000008E3
+t1396345730
+s2275
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/ios/CCGL.h
+c00000000533A8B820000000000000787
+t1396345730
+s1927
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/ios/CCGLView.h
+c00000000533A8B820000000000000CAB
+t1396345730
+s3243
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/ios/CCPlatformDefine.h
+c00000000533A8B8200000000000006DD
+t1396345730
+s1757
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/ios/CCStdC.h
+c00000000533A8B820000000000000718
+t1396345730
+s1816
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCBatchCommand.h
+c00000000533A8B8200000000000007D0
+t1396345730
+s2000
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCCustomCommand.h
+c00000000533A8B8200000000000006AD
+t1396345730
+s1709
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCFrustum.h
+c00000000533A8B820000000000000E14
+t1396345730
+s3604
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCGroupCommand.h
+c00000000534C9D7400000000000007D3
+t1397529972
+s2003
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCMaterialManager.h
+c00000000533A8B8200000000000008A3
+t1396345730
+s2211
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCQuadCommand.h
+c00000000534C9D740000000000000B3A
+t1397529972
+s2874
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCRenderCommand.h
+c00000000533A8B820000000000000894
+t1396345730
+s2196
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCRenderCommandPool.h
+c00000000533A8B820000000000000BB9
+t1396345730
+s3001
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCRenderMaterial.h
+c00000000533A8B820000000000000570
+t1396345730
+s1392
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCRenderer.h
+c00000000534CBE380000000000001447
+t1397538360
+s5191
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/uthash.h
+c00000000533A8B82000000000000ECB6
+t1396345730
+s60598
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCAffineTransform.h
+c00000000533A8B820000000000000C07
+t1396345730
+s3079
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCAutoreleasePool.h
+c00000000533A8B8200000000000012BE
+t1396345730
+s4798
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCConsole.h
+c00000000534C9D74000000000000120A
+t1397529972
+s4618
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCData.h
+c00000000533A8B820000000000000BE1
+t1396345730
+s3041
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCDataVisitor.h
+c00000000533A8B820000000000000D26
+t1396345730
+s3366
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCGeometry.h
+c00000000533A8B820000000000003B0B
+t1396345730
+s15115
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCMap.h
+c00000000533A8B820000000000002CCB
+t1396345730
+s11467
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCNS.h
+c00000000533A8B820000000000000DEF
+t1396345730
+s3567
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCPlatformConfig.h
+c00000000533A94FA0000000000001250
+t1396348154
+s4688
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCPlatformMacros.h
+c00000000533A94FA0000000000002EC4
+t1396348154
+s11972
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCRef.h
+c00000000533A8B820000000000001119
+t1396345730
+s4377
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCValue.h
+c00000000533A8B820000000000000FDC
+t1396345730
+s4060
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCVector.h
+c00000000533A8B820000000000003BAD
+t1396345730
+s15277
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCArray.h
+c00000000534C9D74000000000000439A
+t1397529972
+s17306
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCBool.h
+c00000000534C9D74000000000000081F
+t1397529972
+s2079
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCDeprecated.h
+c00000000534C9D74000000000000BCD3
+t1397529972
+s48339
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCDictionary.h
+c00000000534C9D740000000000003C71
+t1397529972
+s15473
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCDouble.h
+c00000000534C9D740000000000000815
+t1397529972
+s2069
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCFloat.h
+c00000000534C9D74000000000000080C
+t1397529972
+s2060
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCInteger.h
+c00000000534C9D7400000000000008C8
+t1397529972
+s2248
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCNotificationCenter.h
+c00000000534C9D7400000000000019FB
+t1397529972
+s6651
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCSet.h
+c00000000534C9D740000000000000C59
+t1397529972
+s3161
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCString.h
+c00000000534C9D740000000000001953
+t1397529972
+s6483
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/GL/matrix.h
+c00000000533A8B820000000000000886
+t1396345730
+s2182
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/aabb.h
+c00000000533A8B8200000000000009C1
+t1396345730
+s2497
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/kazmath.h
+c00000000534CBE38000000000000064F
+t1397538360
+s1615
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/mat3.h
+c00000000533A8B820000000000000E18
+t1396345730
+s3608
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/mat4.h
+c00000000533A8B820000000000001076
+t1396345730
+s4214
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/plane.h
+c00000000533A8B820000000000000C98
+t1396345730
+s3224
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/quaternion.h
+c00000000533A8B82000000000000145A
+t1396345730
+s5210
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/ray2.h
+c00000000533A8B8200000000000008AD
+t1396345730
+s2221
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/ray3.h
+c00000000533A8B820000000000000233
+t1396345730
+s563
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/utility.h
+c00000000533A8B820000000000000A28
+t1396345730
+s2600
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/vec2.h
+c00000000533A8B820000000000001003
+t1396345730
+s4099
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/vec3.h
+c00000000533A8B82000000000000122F
+t1396345730
+s4655
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/vec4.h
+c00000000533A8B820000000000000BFF
+t1396345730
+s3071
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/physics/CCPhysicsBody.h
+c00000000533A94FA0000000000003E99
+t1396348154
+s16025
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/physics/CCPhysicsContact.h
+c00000000533A8B82000000000000244B
+t1396345730
+s9291
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/physics/CCPhysicsJoint.h
+c00000000533A8B820000000000002684
+t1396345730
+s9860
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/physics/CCPhysicsShape.h
+c00000000533A8B82000000000000325A
+t1396345730
+s12890
+
+N/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/physics/CCPhysicsWorld.h
+c00000000533A8B820000000000002012
+t1396345730
+s8210
+
+N/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj iOS.build/Objects-normal/i386/AppController.o
+t1398063035
+s955892
+
+N/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj iOS.build/Objects-normal/i386/AppDelegate.o
+t1398063035
+s1122764
+
+N/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj iOS.build/Objects-normal/i386/HelloWorldScene.o
+t1398063035
+s1552560
+
+N/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj iOS.build/Objects-normal/i386/RootViewController.o
+t1398063035
+s1156960
+
+N/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj iOS.build/Objects-normal/i386/TestPj iOS.LinkFileList
+c000000005354BFB900000000000002D1
+t1398063033
+s721
+
+N/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj iOS.build/Objects-normal/i386/main.o
+t1398063033
+s4084
+
+N/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/AppController.h
+c00000000533A94FA00000000000000D6
+t1396348154
+s214
+
+N/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/AppController.mm
+c00000000533A94FA000000000000164D
+t1396348154
+s5709
+
+N/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Default-568h@2x.png
+c00000000533A8B84000000000002F4C3
+t1396345732
+s193731
+
+N/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Default.png
+c00000000533A8B840000000000015DA4
+t1396345732
+s89508
+
+N/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Default@2x.png
+c00000000533A8B84000000000008DD28
+t1396345732
+s580904
+
+N/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Icon-100.png
+c00000000533A8B840000000000004383
+t1396345732
+s17283
+
+N/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Icon-114.png
+c00000000533A8B840000000000004099
+t1396345732
+s16537
+
+N/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Icon-120.png
+c00000000533A8B840000000000005D3F
+t1396345732
+s23871
+
+N/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Icon-144.png
+c00000000533A8B840000000000006723
+t1396345732
+s26403
+
+N/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Icon-152.png
+c00000000533A8B840000000000008381
+t1396345732
+s33665
+
+N/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Icon-29.png
+c00000000533A8B840000000000000FC6
+t1396345732
+s4038
+
+N/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Icon-40.png
+c00000000533A8B840000000000001566
+t1396345732
+s5478
+
+N/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Icon-50.png
+c00000000533A8B840000000000001B7E
+t1396345732
+s7038
+
+N/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Icon-57.png
+c00000000533A8B840000000000002300
+t1396345732
+s8960
+
+N/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Icon-58.png
+c00000000533A8B8400000000000020F1
+t1396345732
+s8433
+
+N/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Icon-72.png
+c00000000533A8B840000000000002CBD
+t1396345732
+s11453
+
+N/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Icon-76.png
+c00000000533A8B8400000000000033C2
+t1396345732
+s13250
+
+N/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Icon-80.png
+c00000000533A8B8400000000000030C9
+t1396345732
+s12489
+
+N/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Info.plist
+c00000000533A8B8400000000000007CC
+t1396345732
+s1996
+
+N/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Prefix.pch
+c000000005354BF3600000000000000B5
+t1398062902
+s181
+
+N/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/RootViewController.h
+c00000000533A8B840000000000000599
+t1396345732
+s1433
+
+N/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/RootViewController.mm
+c00000000534CBE380000000000000E51
+t1397538360
+s3665
+
+N/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/main.m
+c000000005354BF3600000000000000F2
+t1398062902
+s242
+
+N/usr/lib/libSystem.B.dylib
+c00000000500B6308000000000000D2A0
+t1342923528
+s53920
+
+N/usr/lib/system/libcache.dylib
+c00000000500B63130000000000013870
+t1342923539
+s79984
+
+N/usr/lib/system/libcommonCrypto.dylib
+c0000000051A5962D0000000000030250
+t1369806381
+s197200
+
+N/usr/lib/system/libcompiler_rt.dylib
+c00000000500B63080000000000017910
+t1342923528
+s96528
+
+N/usr/lib/system/libcopyfile.dylib
+c00000000500B6312000000000001A130
+t1342923538
+s106800
+
+N/usr/lib/system/libdnsinfo.dylib
+c0000000051A5962D000000000000C2A0
+t1369806381
+s49824
+
+N/usr/lib/system/libkeymgr.dylib
+c00000000500B63130000000000008CE0
+t1342923539
+s36064
+
+N/usr/lib/system/liblaunch.dylib
+c0000000050616B2D000000000001D350
+t1348561709
+s119632
+
+N/usr/lib/system/libmacho.dylib
+c00000000500B63120000000000014F90
+t1342923538
+s85904
+
+N/usr/lib/system/libquarantine.dylib
+c0000000051BED24F000000000000D790
+t1371460175
+s55184
+
+N/usr/lib/system/libremovefile.dylib
+c0000000051A5962D000000000000C330
+t1369806381
+s49968
+
+N/usr/lib/system/libsystem_blocks.dylib
+c00000000500B6313000000000000A080
+t1342923539
+s41088
+
+N/usr/lib/system/libsystem_c.dylib
+c00000000523A5D0E00000000001F91C0
+t1379556622
+s2068928
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000051BED24F000000000001BC00
+t1371460175
+s113664
+
+N/usr/lib/system/libsystem_info.dylib
+c00000000500B6308000000000008B580
+t1342923528
+s570752
+
+N/usr/lib/system/libsystem_kernel.dylib
+c00000000523A5D0E00000000000569B0
+t1379556622
+s354736
+
+N/usr/lib/system/libsystem_m.dylib
+c00000000500B63080000000000070540
+t1342923528
+s460096
+
+N/usr/lib/system/libsystem_notify.dylib
+c00000000500B63080000000000025620
+t1342923528
+s153120
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000051BED24F000000000000C780
+t1371460175
+s51072
+
+N/usr/lib/system/libunc.dylib
+c00000000500B630F000000000000D430
+t1342923535
+s54320
+
+N/usr/lib/system/libunwind.dylib
+c00000000500B6313000000000001BAA0
+t1342923539
+s113312
+
+N/var/folders/02/5yl6qgx90kl8tjr117sjz5fw0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-bpnonnljwmywruaksaclrxnygysr/Prefix.pch.pch
+t1398063033
+s5369824
+
+N/var/folders/02/5yl6qgx90kl8tjr117sjz5fw0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-ewqptykyjvhxzufkwzkirsoohbrn/Prefix.pch.pch
+t1398063033
+s122964
+
+N/var/folders/02/5yl6qgx90kl8tjr117sjz5fw0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-fuchmruxtwrdiocpkkivpkfyclva/Prefix.pch.pch
+t1398063033
+s6315328
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesb4c945b2e909b941^5b274ab2e909b941^---0#1#1#--18"Check dependencies36"5CE81A08-DFFA-4AD3-A87E-FA06177D67D0-
+
+CCompileC build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/Objects-normal/i386/AppController.o /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/AppController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s419755833.705686
+e419755835.424425
+r1
+xCompileC
+xbuild/TestPj.build/Debug-iphonesimulator/TestPj iOS.build/Objects-normal/i386/AppController.o
+x/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/AppController.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/AppController.mm
+d/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/AppController.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/ios/CCEAGLView.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCPlatformConfig.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/ios/CCESRenderer.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCPlatformMacros.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/ccConfig.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/ios/CCPlatformDefine.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/cocos2d.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCAction.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCRef.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCGeometry.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/ccMacros.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCConsole.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/ios/CCStdC.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionInterval.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCNode.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCAffineTransform.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/kazmath.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/vec2.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/utility.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/vec3.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/vec4.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/mat3.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/mat4.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/quaternion.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/plane.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/aabb.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/ray2.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/ray3.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/ios/CCGL.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/ccGLStateCache.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCGLProgram.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCScriptSupport.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/CCCommon.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTouch.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventTouch.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEvent.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventKeyboard.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCProtocols.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/ccTypes.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTexture2D.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventDispatcher.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventListener.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCVector.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCSpriteFrame.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCAnimation.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCValue.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionCamera.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionManager.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionEase.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionPageTurn3D.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionGrid3D.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionGrid.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionInstant.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionProgressTimer.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionTiledGrid.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionTween.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionCatmullRom.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTweenFunction.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCAtlasNode.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCQuadCommand.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCRenderCommand.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/GL/matrix.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCRenderCommandPool.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCMap.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCAutoreleasePool.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCNS.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCData.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCDrawingPrimitives.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCDrawNode.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCCustomCommand.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCGrabber.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCConfiguration.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCGrid.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCDirector.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCLabelAtlas.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventType.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCLabelTTF.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCLabelBMFont.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCLabel.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCSpriteBatchNode.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTextureAtlas.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCBatchCommand.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCFontAtlas.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCFontFNT.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCFont.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCLayer.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCScene.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/physics/CCPhysicsWorld.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTransition.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTransitionPageTurn.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTransitionProgress.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCMenu.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCMenuItem.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCClippingNode.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCGroupCommand.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCMotionStreak.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCProgressTimer.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCSprite.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/physics/CCPhysicsBody.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/physics/CCPhysicsShape.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCRenderTexture.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/CCImage.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCNodeGrid.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCParticleBatchNode.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCParticleSystem.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCString.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCArray.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/ccCArray.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCDataVisitor.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCParticleExamples.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCParticleSystemQuad.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCFrustum.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCMaterialManager.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCRenderMaterial.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCRenderer.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/physics/CCPhysicsContact.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventListenerCustom.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventCustom.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/physics/CCPhysicsJoint.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/CCDevice.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/CCFileUtils.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/CCSAXParser.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/CCThread.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/ios/CCApplication.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/CCApplicationProtocol.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/ios/CCGLView.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/CCGLViewProtocol.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCShaderCache.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/ccShaders.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCAnimationCache.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCSpriteFrameCache.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/ccUTF8.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCProfiling.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCUserDefault.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCVertex.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCIMEDelegate.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCIMEDispatcher.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTextFieldTTF.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTextureCache.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCParallaxNode.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTMXLayer.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTMXObjectGroup.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTMXXMLParser.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTMXTiledMap.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTileMapAtlas.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventListenerTouch.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventListenerKeyboard.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventListenerMouse.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventMouse.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventAcceleration.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventListenerAcceleration.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCScheduler.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/uthash.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCComponent.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCComponentContainer.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCDictionary.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCSet.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCInteger.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCFloat.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCDouble.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCBool.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCNotificationCenter.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCDeprecated.h
+d/Users/kodamatakashi/Documents/TestPj/Classes/AppDelegate.h
+d/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/RootViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/AppController.mm210"[1mCompileC[0m build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/Objects-normal/i386/AppController.o [1mios/AppController.mm[0m normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compilera4c2b439f704b941^61a76c3bf704b941^---0#0#1#-19%DVTDocumentLocation2@87"file://localhost/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/AppController.mm0000000000000000^4602"[1mCompileC[0m build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/Objects-normal/i386/AppController.o [1mios/AppController.mm[0m normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kodamatakashi/Documents/TestPj/proj.ios_mac    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/share/ant/bin:/Applications/android/sdk/tools:/Applications/android/sdk/platform-tools:/Applications/android/sdk:/Applications/android-ndk-r9:/Users/kodamatakashi/cocos2d-x-3.0rc2/tools/cocos2d-console/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=111 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DUSE_FILE32API -DCC_TARGET_OS_IPHONE -DCOCOS2D_DEBUG=1 -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/TestPj\ iOS.hmap -I/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/include -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/base -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/physics -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/math/kazmath -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/2d -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/ui -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/network -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/audio/include -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/editor-support -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/extensions -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/external -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/external/chipmunk/include/chipmunk -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/2d/platform/ios -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/2d/platform/ios/Simulation -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/DerivedSources/i386 -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/DerivedSources -F/Users/kodamatakashi/Documents/TestPj/bin/debug/ios -include /var/folders/02/5yl6qgx90kl8tjr117sjz5fw0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-fuchmruxtwrdiocpkkivpkfyclva/Prefix.pch -MMD -MT dependencies -MF /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/Objects-normal/i386/AppController.d --serialize-diagnostics /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/Objects-normal/i386/AppController.dia -c /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/AppController.mm -o /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/Objects-normal/i386/AppController.o36"031F9E11-ADC2-4913-84C6-A1AA8FAC18D0-
+bAAC1F9EE-BFD8-4144-8A6A-CA80AE9AF88D
+
+CCompileC build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/Objects-normal/i386/AppDelegate.o /Users/kodamatakashi/Documents/TestPj/Classes/AppDelegate.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s419755833.705711
+e419755835.349540
+r1
+xCompileC
+xbuild/TestPj.build/Debug-iphonesimulator/TestPj iOS.build/Objects-normal/i386/AppDelegate.o
+x/Users/kodamatakashi/Documents/TestPj/Classes/AppDelegate.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kodamatakashi/Documents/TestPj/Classes/AppDelegate.cpp
+d/Users/kodamatakashi/Documents/TestPj/Classes/AppDelegate.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/cocos2d.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/ccConfig.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCPlatformConfig.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCAction.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCRef.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCPlatformMacros.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/ios/CCPlatformDefine.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCGeometry.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/ccMacros.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCConsole.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/ios/CCStdC.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionInterval.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCNode.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCAffineTransform.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/kazmath.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/vec2.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/utility.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/vec3.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/vec4.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/mat3.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/mat4.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/quaternion.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/plane.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/aabb.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/ray2.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/ray3.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/ios/CCGL.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/ccGLStateCache.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCGLProgram.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCScriptSupport.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/CCCommon.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTouch.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventTouch.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEvent.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventKeyboard.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCProtocols.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/ccTypes.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTexture2D.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventDispatcher.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventListener.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCVector.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCSpriteFrame.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCAnimation.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCValue.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionCamera.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionManager.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionEase.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionPageTurn3D.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionGrid3D.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionGrid.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionInstant.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionProgressTimer.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionTiledGrid.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionTween.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionCatmullRom.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTweenFunction.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCAtlasNode.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCQuadCommand.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCRenderCommand.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/GL/matrix.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCRenderCommandPool.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCMap.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCAutoreleasePool.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCNS.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCData.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCDrawingPrimitives.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCDrawNode.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCCustomCommand.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCGrabber.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCConfiguration.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCGrid.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCDirector.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCLabelAtlas.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventType.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCLabelTTF.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCLabelBMFont.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCLabel.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCSpriteBatchNode.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTextureAtlas.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCBatchCommand.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCFontAtlas.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCFontFNT.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCFont.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCLayer.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCScene.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/physics/CCPhysicsWorld.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTransition.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTransitionPageTurn.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTransitionProgress.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCMenu.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCMenuItem.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCClippingNode.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCGroupCommand.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCMotionStreak.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCProgressTimer.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCSprite.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/physics/CCPhysicsBody.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/physics/CCPhysicsShape.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCRenderTexture.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/CCImage.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCNodeGrid.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCParticleBatchNode.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCParticleSystem.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCString.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCArray.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/ccCArray.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCDataVisitor.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCParticleExamples.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCParticleSystemQuad.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCFrustum.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCMaterialManager.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCRenderMaterial.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCRenderer.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/physics/CCPhysicsContact.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventListenerCustom.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventCustom.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/physics/CCPhysicsJoint.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/CCDevice.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/CCFileUtils.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/CCSAXParser.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/CCThread.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/ios/CCApplication.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/CCApplicationProtocol.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/ios/CCGLView.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/CCGLViewProtocol.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCShaderCache.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/ccShaders.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCAnimationCache.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCSpriteFrameCache.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/ccUTF8.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCProfiling.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCUserDefault.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCVertex.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCIMEDelegate.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCIMEDispatcher.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTextFieldTTF.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTextureCache.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCParallaxNode.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTMXLayer.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTMXObjectGroup.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTMXXMLParser.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTMXTiledMap.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTileMapAtlas.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventListenerTouch.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventListenerKeyboard.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventListenerMouse.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventMouse.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventAcceleration.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventListenerAcceleration.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCScheduler.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/uthash.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCComponent.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCComponentContainer.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCDictionary.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCSet.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCInteger.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCFloat.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCDouble.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCBool.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCNotificationCenter.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCDeprecated.h
+d/Users/kodamatakashi/Documents/TestPj/Classes/HelloWorldScene.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/kodamatakashi/Documents/TestPj/Classes/AppDelegate.cpp239"[1mCompileC[0m build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/Objects-normal/i386/AppDelegate.o [1m/Users/kodamatakashi/Documents/TestPj/Classes/AppDelegate.cpp[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler7dcbb439f704b941^9e7d593bf704b941^---0#0#1#-19%DVTDocumentLocation2@77"file://localhost/Users/kodamatakashi/Documents/TestPj/Classes/AppDelegate.cpp0000000000000000^4368"[1mCompileC[0m build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/Objects-normal/i386/AppDelegate.o [1m/Users/kodamatakashi/Documents/TestPj/Classes/AppDelegate.cpp[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kodamatakashi/Documents/TestPj/proj.ios_mac    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/share/ant/bin:/Applications/android/sdk/tools:/Applications/android/sdk/platform-tools:/Applications/android/sdk:/Applications/android-ndk-r9:/Users/kodamatakashi/cocos2d-x-3.0rc2/tools/cocos2d-console/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=111 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DUSE_FILE32API -DCC_TARGET_OS_IPHONE -DCOCOS2D_DEBUG=1 -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/TestPj\ iOS.hmap -I/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/include -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/base -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/physics -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/math/kazmath -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/2d -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/ui -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/network -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/audio/include -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/editor-support -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/extensions -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/external -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/external/chipmunk/include/chipmunk -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/2d/platform/ios -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/2d/platform/ios/Simulation -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/DerivedSources/i386 -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/DerivedSources -F/Users/kodamatakashi/Documents/TestPj/bin/debug/ios -include /var/folders/02/5yl6qgx90kl8tjr117sjz5fw0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-ewqptykyjvhxzufkwzkirsoohbrn/Prefix.pch -MMD -MT dependencies -MF /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/Objects-normal/i386/AppDelegate.dia -c /Users/kodamatakashi/Documents/TestPj/Classes/AppDelegate.cpp -o /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/Objects-normal/i386/AppDelegate.o36"407BC663-F9CF-4106-8049-B0263E7E2753-
+bAAC1F9EE-BFD8-4144-8A6A-CA80AE9AF88D
+
+CCompileC build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/Objects-normal/i386/HelloWorldScene.o /Users/kodamatakashi/Documents/TestPj/Classes/HelloWorldScene.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s419755833.705728
+e419755835.462304
+r1
+xCompileC
+xbuild/TestPj.build/Debug-iphonesimulator/TestPj iOS.build/Objects-normal/i386/HelloWorldScene.o
+x/Users/kodamatakashi/Documents/TestPj/Classes/HelloWorldScene.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kodamatakashi/Documents/TestPj/Classes/HelloWorldScene.cpp
+d/Users/kodamatakashi/Documents/TestPj/Classes/HelloWorldScene.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/cocos2d.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/ccConfig.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCPlatformConfig.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCAction.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCRef.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCPlatformMacros.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/ios/CCPlatformDefine.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCGeometry.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/ccMacros.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCConsole.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/ios/CCStdC.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionInterval.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCNode.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCAffineTransform.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/kazmath.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/vec2.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/utility.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/vec3.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/vec4.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/mat3.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/mat4.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/quaternion.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/plane.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/aabb.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/ray2.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/ray3.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/ios/CCGL.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/ccGLStateCache.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCGLProgram.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCScriptSupport.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/CCCommon.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTouch.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventTouch.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEvent.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventKeyboard.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCProtocols.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/ccTypes.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTexture2D.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventDispatcher.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventListener.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCVector.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCSpriteFrame.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCAnimation.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCValue.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionCamera.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionManager.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionEase.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionPageTurn3D.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionGrid3D.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionGrid.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionInstant.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionProgressTimer.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionTiledGrid.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionTween.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionCatmullRom.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTweenFunction.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCAtlasNode.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCQuadCommand.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCRenderCommand.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/GL/matrix.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCRenderCommandPool.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCMap.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCAutoreleasePool.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCNS.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCData.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCDrawingPrimitives.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCDrawNode.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCCustomCommand.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCGrabber.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCConfiguration.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCGrid.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCDirector.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCLabelAtlas.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventType.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCLabelTTF.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCLabelBMFont.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCLabel.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCSpriteBatchNode.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTextureAtlas.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCBatchCommand.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCFontAtlas.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCFontFNT.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCFont.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCLayer.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCScene.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/physics/CCPhysicsWorld.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTransition.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTransitionPageTurn.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTransitionProgress.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCMenu.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCMenuItem.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCClippingNode.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCGroupCommand.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCMotionStreak.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCProgressTimer.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCSprite.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/physics/CCPhysicsBody.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/physics/CCPhysicsShape.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCRenderTexture.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/CCImage.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCNodeGrid.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCParticleBatchNode.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCParticleSystem.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCString.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCArray.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/ccCArray.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCDataVisitor.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCParticleExamples.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCParticleSystemQuad.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCFrustum.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCMaterialManager.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCRenderMaterial.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCRenderer.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/physics/CCPhysicsContact.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventListenerCustom.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventCustom.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/physics/CCPhysicsJoint.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/CCDevice.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/CCFileUtils.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/CCSAXParser.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/CCThread.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/ios/CCApplication.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/CCApplicationProtocol.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/ios/CCGLView.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/CCGLViewProtocol.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCShaderCache.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/ccShaders.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCAnimationCache.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCSpriteFrameCache.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/ccUTF8.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCProfiling.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCUserDefault.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCVertex.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCIMEDelegate.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCIMEDispatcher.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTextFieldTTF.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTextureCache.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCParallaxNode.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTMXLayer.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTMXObjectGroup.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTMXXMLParser.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTMXTiledMap.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTileMapAtlas.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventListenerTouch.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventListenerKeyboard.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventListenerMouse.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventMouse.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventAcceleration.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventListenerAcceleration.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCScheduler.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/uthash.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCComponent.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCComponentContainer.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCDictionary.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCSet.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCInteger.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCFloat.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCDouble.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCBool.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCNotificationCenter.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCDeprecated.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/kodamatakashi/Documents/TestPj/Classes/HelloWorldScene.cpp247"[1mCompileC[0m build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/Objects-normal/i386/HelloWorldScene.o [1m/Users/kodamatakashi/Documents/TestPj/Classes/HelloWorldScene.cpp[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compilera6d1b439f704b941^d159763bf704b941^---0#0#1#-19%DVTDocumentLocation2@81"file://localhost/Users/kodamatakashi/Documents/TestPj/Classes/HelloWorldScene.cpp0000000000000000^4392"[1mCompileC[0m build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/Objects-normal/i386/HelloWorldScene.o [1m/Users/kodamatakashi/Documents/TestPj/Classes/HelloWorldScene.cpp[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kodamatakashi/Documents/TestPj/proj.ios_mac    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/share/ant/bin:/Applications/android/sdk/tools:/Applications/android/sdk/platform-tools:/Applications/android/sdk:/Applications/android-ndk-r9:/Users/kodamatakashi/cocos2d-x-3.0rc2/tools/cocos2d-console/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=111 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DUSE_FILE32API -DCC_TARGET_OS_IPHONE -DCOCOS2D_DEBUG=1 -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/TestPj\ iOS.hmap -I/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/include -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/base -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/physics -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/math/kazmath -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/2d -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/ui -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/network -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/audio/include -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/editor-support -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/extensions -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/external -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/external/chipmunk/include/chipmunk -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/2d/platform/ios -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/2d/platform/ios/Simulation -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/DerivedSources/i386 -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/DerivedSources -F/Users/kodamatakashi/Documents/TestPj/bin/debug/ios -include /var/folders/02/5yl6qgx90kl8tjr117sjz5fw0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-ewqptykyjvhxzufkwzkirsoohbrn/Prefix.pch -MMD -MT dependencies -MF /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/Objects-normal/i386/HelloWorldScene.d --serialize-diagnostics /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/Objects-normal/i386/HelloWorldScene.dia -c /Users/kodamatakashi/Documents/TestPj/Classes/HelloWorldScene.cpp -o /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/Objects-normal/i386/HelloWorldScene.o36"6A13AF89-500F-44A2-8BF2-48FD49CDC6A4-
+bAAC1F9EE-BFD8-4144-8A6A-CA80AE9AF88D
+
+CCompileC build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/Objects-normal/i386/RootViewController.o /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/RootViewController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s419755833.705695
+e419755835.378276
+r1
+xCompileC
+xbuild/TestPj.build/Debug-iphonesimulator/TestPj iOS.build/Objects-normal/i386/RootViewController.o
+x/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/RootViewController.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/RootViewController.mm
+d/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/RootViewController.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/cocos2d.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/ccConfig.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCPlatformConfig.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCAction.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCRef.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCPlatformMacros.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/ios/CCPlatformDefine.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCGeometry.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/ccMacros.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCConsole.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/ios/CCStdC.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionInterval.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCNode.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCAffineTransform.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/kazmath.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/vec2.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/utility.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/vec3.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/vec4.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/mat3.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/mat4.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/quaternion.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/plane.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/aabb.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/ray2.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/ray3.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/ios/CCGL.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/ccGLStateCache.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCGLProgram.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCScriptSupport.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/CCCommon.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTouch.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventTouch.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEvent.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventKeyboard.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCProtocols.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/ccTypes.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTexture2D.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventDispatcher.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventListener.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCVector.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCSpriteFrame.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCAnimation.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCValue.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionCamera.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionManager.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionEase.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionPageTurn3D.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionGrid3D.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionGrid.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionInstant.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionProgressTimer.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionTiledGrid.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionTween.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCActionCatmullRom.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTweenFunction.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCAtlasNode.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCQuadCommand.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCRenderCommand.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/math/kazmath/kazmath/GL/matrix.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCRenderCommandPool.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCMap.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCAutoreleasePool.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCNS.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCData.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCDrawingPrimitives.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCDrawNode.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCCustomCommand.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCGrabber.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCConfiguration.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCGrid.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCDirector.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCLabelAtlas.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventType.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCLabelTTF.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCLabelBMFont.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCLabel.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCSpriteBatchNode.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTextureAtlas.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCBatchCommand.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCFontAtlas.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCFontFNT.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCFont.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCLayer.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCScene.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/physics/CCPhysicsWorld.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTransition.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTransitionPageTurn.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTransitionProgress.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCMenu.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCMenuItem.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCClippingNode.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCGroupCommand.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCMotionStreak.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCProgressTimer.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCSprite.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/physics/CCPhysicsBody.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/physics/CCPhysicsShape.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCRenderTexture.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/CCImage.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCNodeGrid.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCParticleBatchNode.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCParticleSystem.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCString.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCArray.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/ccCArray.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/base/CCDataVisitor.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCParticleExamples.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCParticleSystemQuad.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCFrustum.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCMaterialManager.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCRenderMaterial.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/renderer/CCRenderer.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/physics/CCPhysicsContact.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventListenerCustom.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventCustom.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/physics/CCPhysicsJoint.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/CCDevice.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/CCFileUtils.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/CCSAXParser.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/CCThread.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/ios/CCApplication.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/CCApplicationProtocol.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/ios/CCGLView.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/CCGLViewProtocol.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCShaderCache.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/ccShaders.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCAnimationCache.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCSpriteFrameCache.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/ccUTF8.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCProfiling.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCUserDefault.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCVertex.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCIMEDelegate.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCIMEDispatcher.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTextFieldTTF.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTextureCache.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCParallaxNode.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTMXLayer.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTMXObjectGroup.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTMXXMLParser.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTMXTiledMap.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCTileMapAtlas.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventListenerTouch.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventListenerKeyboard.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventListenerMouse.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventMouse.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventAcceleration.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCEventListenerAcceleration.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCScheduler.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/uthash.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCComponent.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/CCComponentContainer.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCDictionary.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCSet.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCInteger.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCFloat.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCDouble.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCBool.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCNotificationCenter.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/deprecated/CCDeprecated.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/ios/CCEAGLView.h
+d/Users/kodamatakashi/Documents/TestPj/cocos2d/cocos/2d/platform/ios/CCESRenderer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/RootViewController.mm220"[1mCompileC[0m build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/Objects-normal/i386/RootViewController.o [1mios/RootViewController.mm[0m normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compilerabccb439f704b941^40d9603bf704b941^---0#0#1#-19%DVTDocumentLocation2@92"file://localhost/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/RootViewController.mm0000000000000000^4632"[1mCompileC[0m build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/Objects-normal/i386/RootViewController.o [1mios/RootViewController.mm[0m normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kodamatakashi/Documents/TestPj/proj.ios_mac    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/share/ant/bin:/Applications/android/sdk/tools:/Applications/android/sdk/platform-tools:/Applications/android/sdk:/Applications/android-ndk-r9:/Users/kodamatakashi/cocos2d-x-3.0rc2/tools/cocos2d-console/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=111 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DUSE_FILE32API -DCC_TARGET_OS_IPHONE -DCOCOS2D_DEBUG=1 -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/TestPj\ iOS.hmap -I/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/include -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/base -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/physics -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/math/kazmath -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/2d -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/ui -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/network -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/audio/include -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/editor-support -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/extensions -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/external -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/external/chipmunk/include/chipmunk -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/2d/platform/ios -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/2d/platform/ios/Simulation -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/DerivedSources/i386 -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/DerivedSources -F/Users/kodamatakashi/Documents/TestPj/bin/debug/ios -include /var/folders/02/5yl6qgx90kl8tjr117sjz5fw0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-fuchmruxtwrdiocpkkivpkfyclva/Prefix.pch -MMD -MT dependencies -MF /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/Objects-normal/i386/RootViewController.d --serialize-diagnostics /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/Objects-normal/i386/RootViewController.dia -c /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/RootViewController.mm -o /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/Objects-normal/i386/RootViewController.o36"26DC0EB5-F276-46D1-B038-C2F002EBFF83-
+bAAC1F9EE-BFD8-4144-8A6A-CA80AE9AF88D
+
+CCompileC build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/Objects-normal/i386/main.o /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419755833.705728
+e419755833.739546
+r1
+xCompileC
+xbuild/TestPj.build/Debug-iphonesimulator/TestPj iOS.build/Objects-normal/i386/main.o
+x/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/main.m189"[1mCompileC[0m build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/Objects-normal/i386/main.o [1mios/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf2cfb439f704b941^c152bd39f704b941^---0#0#1#-19%DVTDocumentLocation2@77"file://localhost/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/main.m0000000000000000^4417"[1mCompileC[0m build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/Objects-normal/i386/main.o [1mios/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kodamatakashi/Documents/TestPj/proj.ios_mac    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/share/ant/bin:/Applications/android/sdk/tools:/Applications/android/sdk/platform-tools:/Applications/android/sdk:/Applications/android-ndk-r9:/Users/kodamatakashi/cocos2d-x-3.0rc2/tools/cocos2d-console/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=111 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DUSE_FILE32API -DCC_TARGET_OS_IPHONE -DCOCOS2D_DEBUG=1 -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/TestPj\ iOS.hmap -I/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/include -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/base -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/physics -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/math/kazmath -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/2d -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/ui -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/network -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/audio/include -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/editor-support -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/extensions -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/external -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/external/chipmunk/include/chipmunk -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/2d/platform/ios -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/2d/platform/ios/Simulation -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/DerivedSources/i386 -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/DerivedSources -F/Users/kodamatakashi/Documents/TestPj/bin/debug/ios -include /var/folders/02/5yl6qgx90kl8tjr117sjz5fw0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-bpnonnljwmywruaksaclrxnygysr/Prefix.pch -MMD -MT dependencies -MF /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/Objects-normal/i386/main.dia -c /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/main.m -o /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/Objects-normal/i386/main.o36"93CE9A9D-0A88-4038-8B7D-FF955FE214F8-
+bAAC1F9EE-BFD8-4144-8A6A-CA80AE9AF88D
+
+CCpResource /Users/kodamatakashi/Documents/TestPj/Resources/CloseNormal.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/CloseNormal.png
+s420080050.305116
+e420080050.316087
+r1
+xCpResource
+x/Users/kodamatakashi/Documents/TestPj/Resources/CloseNormal.png
+x/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/CloseNormal.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Copy /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/CloseNormal.png174"[1mCpResource[0m /Users/kodamatakashi/Documents/TestPj/Resources/CloseNormal.png [1m/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/CloseNormal.png[0mc1364eb2e909b941^53ec50b2e909b941^---0#0#1#-19%DVTDocumentLocation2@100"file://localhost/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj%20iOS.app/CloseNormal.png0038d42ddfffdf42^928"[1mCpResource[0m /Users/kodamatakashi/Documents/TestPj/Resources/CloseNormal.png [1m/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/CloseNormal.png[0m    cd /Users/kodamatakashi/Documents/TestPj/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/share/ant/bin:/Applications/android/sdk/tools:/Applications/android/sdk/platform-tools:/Applications/android/sdk:/Applications/android-ndk-r9:/Users/kodamatakashi/cocos2d-x-3.0rc2/tools/cocos2d-console/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/kodamatakashi/Documents/TestPj/Resources/CloseNormal.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app36"7A1302CC-9508-41F1-97D5-AD8E7EDA8B6D-
+bB1B6A405-7417-4DFA-B856-7252EA4E5F3C
+
+CCpResource /Users/kodamatakashi/Documents/TestPj/Resources/CloseSelected.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/CloseSelected.png
+s420080050.312053
+e420080050.319190
+r1
+xCpResource
+x/Users/kodamatakashi/Documents/TestPj/Resources/CloseSelected.png
+x/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/CloseSelected.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Copy /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/CloseSelected.png178"[1mCpResource[0m /Users/kodamatakashi/Documents/TestPj/Resources/CloseSelected.png [1m/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/CloseSelected.png[0m3df24fb2e909b941^a2b651b2e909b941^---0#0#1#-19%DVTDocumentLocation2@102"file://localhost/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj%20iOS.app/CloseSelected.png0038d42ddfffdf42^934"[1mCpResource[0m /Users/kodamatakashi/Documents/TestPj/Resources/CloseSelected.png [1m/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/CloseSelected.png[0m    cd /Users/kodamatakashi/Documents/TestPj/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/share/ant/bin:/Applications/android/sdk/tools:/Applications/android/sdk/platform-tools:/Applications/android/sdk:/Applications/android-ndk-r9:/Users/kodamatakashi/cocos2d-x-3.0rc2/tools/cocos2d-console/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/kodamatakashi/Documents/TestPj/Resources/CloseSelected.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app36"10A26254-134C-4952-83D3-4D7395BE5EF4-
+bB1B6A405-7417-4DFA-B856-7252EA4E5F3C
+
+CCpResource /Users/kodamatakashi/Documents/TestPj/Resources/HelloWorld.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/HelloWorld.png
+s420080050.318394
+e420080050.328758
+r1
+xCpResource
+x/Users/kodamatakashi/Documents/TestPj/Resources/HelloWorld.png
+x/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/HelloWorld.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Copy /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/HelloWorld.png172"[1mCpResource[0m /Users/kodamatakashi/Documents/TestPj/Resources/HelloWorld.png [1m/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/HelloWorld.png[0m439251b2e909b941^022a54b2e909b941^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj%20iOS.app/HelloWorld.png0038d42ddfffdf42^925"[1mCpResource[0m /Users/kodamatakashi/Documents/TestPj/Resources/HelloWorld.png [1m/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/HelloWorld.png[0m    cd /Users/kodamatakashi/Documents/TestPj/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/share/ant/bin:/Applications/android/sdk/tools:/Applications/android/sdk/platform-tools:/Applications/android/sdk:/Applications/android-ndk-r9:/Users/kodamatakashi/cocos2d-x-3.0rc2/tools/cocos2d-console/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/kodamatakashi/Documents/TestPj/Resources/HelloWorld.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app36"421B1D4F-9312-45AD-8446-7AC420A95A64-
+bB1B6A405-7417-4DFA-B856-7252EA4E5F3C
+
+CCpResource ios/Default-568h@2x.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Default-568h@2x.png
+s420080050.305138
+e420080050.318742
+r1
+xCpResource
+xios/Default-568h@2x.png
+x/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Default-568h@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Default-568h@2x.png138"[1mCpResource[0m ios/Default-568h@2x.png [1m/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Default-568h@2x.png[0mb1324eb2e909b941^789951b2e909b941^---0#0#1#-19%DVTDocumentLocation2@104"file://localhost/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj%20iOS.app/Default-568h@2x.png0038d42ddfffdf42^903"[1mCpResource[0m ios/Default-568h@2x.png [1m/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Default-568h@2x.png[0m    cd /Users/kodamatakashi/Documents/TestPj/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/share/ant/bin:/Applications/android/sdk/tools:/Applications/android/sdk/platform-tools:/Applications/android/sdk:/Applications/android-ndk-r9:/Users/kodamatakashi/cocos2d-x-3.0rc2/tools/cocos2d-console/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Default-568h@2x.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app36"4FA8203B-32AA-4317-A4B2-A54680E15A0C-
+bB1B6A405-7417-4DFA-B856-7252EA4E5F3C
+
+CCpResource ios/Default.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Default.png
+s420080050.324357
+e420080050.334706
+r1
+xCpResource
+xios/Default.png
+x/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Default.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Copy /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Default.png122"[1mCpResource[0m ios/Default.png [1m/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Default.png[0mfc1c53b2e909b941^b7d257b2e909b941^---0#0#1#-19%DVTDocumentLocation2@96"file://localhost/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj%20iOS.app/Default.png0038d42ddfffdf42^879"[1mCpResource[0m ios/Default.png [1m/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Default.png[0m    cd /Users/kodamatakashi/Documents/TestPj/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/share/ant/bin:/Applications/android/sdk/tools:/Applications/android/sdk/platform-tools:/Applications/android/sdk:/Applications/android-ndk-r9:/Users/kodamatakashi/cocos2d-x-3.0rc2/tools/cocos2d-console/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Default.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app36"8881087B-ECD5-4513-A496-78F04A6EF22D-
+bB1B6A405-7417-4DFA-B856-7252EA4E5F3C
+
+CCpResource ios/Default@2x.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Default@2x.png
+s420080050.305029
+e420080050.333163
+r1
+xCpResource
+xios/Default@2x.png
+x/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Default@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Copy /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Default@2x.png128"[1mCpResource[0m ios/Default@2x.png [1m/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Default@2x.png[0m44344eb2e909b941^804a55b2e909b941^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj%20iOS.app/Default@2x.png0038d42ddfffdf42^888"[1mCpResource[0m ios/Default@2x.png [1m/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Default@2x.png[0m    cd /Users/kodamatakashi/Documents/TestPj/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/share/ant/bin:/Applications/android/sdk/tools:/Applications/android/sdk/platform-tools:/Applications/android/sdk:/Applications/android-ndk-r9:/Users/kodamatakashi/cocos2d-x-3.0rc2/tools/cocos2d-console/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Default@2x.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app36"7DB6DF9D-1F80-49E7-9EC3-002FC04DF4A3-
+bB1B6A405-7417-4DFA-B856-7252EA4E5F3C
+
+CCpResource ios/Icon-100.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-100.png
+s420080050.305040
+e420080050.319744
+r1
+xCpResource
+xios/Icon-100.png
+x/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Icon-100.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Icon-100.png124"[1mCpResource[0m ios/Icon-100.png [1m/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-100.png[0m9c334eb2e909b941^87db51b2e909b941^---0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj%20iOS.app/Icon-100.png0038d42ddfffdf42^882"[1mCpResource[0m ios/Icon-100.png [1m/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-100.png[0m    cd /Users/kodamatakashi/Documents/TestPj/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/share/ant/bin:/Applications/android/sdk/tools:/Applications/android/sdk/platform-tools:/Applications/android/sdk:/Applications/android-ndk-r9:/Users/kodamatakashi/cocos2d-x-3.0rc2/tools/cocos2d-console/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Icon-100.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app36"DF07BF9A-89ED-4D37-A6B4-8F3C79D52B88-
+bB1B6A405-7417-4DFA-B856-7252EA4E5F3C
+
+CCpResource ios/Icon-114.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-114.png
+s420080050.317446
+e420080050.323097
+r1
+xCpResource
+xios/Icon-114.png
+x/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Icon-114.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Icon-114.png124"[1mCpResource[0m ios/Icon-114.png [1m/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-114.png[0md15a51b2e909b941^e1b652b2e909b941^---0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj%20iOS.app/Icon-114.png0038d42ddfffdf42^882"[1mCpResource[0m ios/Icon-114.png [1m/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-114.png[0m    cd /Users/kodamatakashi/Documents/TestPj/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/share/ant/bin:/Applications/android/sdk/tools:/Applications/android/sdk/platform-tools:/Applications/android/sdk:/Applications/android-ndk-r9:/Users/kodamatakashi/cocos2d-x-3.0rc2/tools/cocos2d-console/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Icon-114.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app36"F071D2E6-378D-4F1B-8A1A-3F5D008ADFD3-
+bB1B6A405-7417-4DFA-B856-7252EA4E5F3C
+
+CCpResource ios/Icon-120.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-120.png
+s420080050.304953
+e420080050.310824
+r1
+xCpResource
+xios/Icon-120.png
+x/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Icon-120.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Icon-120.png124"[1mCpResource[0m ios/Icon-120.png [1m/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-120.png[0mdc2c4eb2e909b941^9a934fb2e909b941^---0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj%20iOS.app/Icon-120.png0038d42ddfffdf42^882"[1mCpResource[0m ios/Icon-120.png [1m/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-120.png[0m    cd /Users/kodamatakashi/Documents/TestPj/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/share/ant/bin:/Applications/android/sdk/tools:/Applications/android/sdk/platform-tools:/Applications/android/sdk:/Applications/android-ndk-r9:/Users/kodamatakashi/cocos2d-x-3.0rc2/tools/cocos2d-console/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Icon-120.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app36"1113EFA1-8D24-4B35-B2E5-AD67FDF21197-
+bB1B6A405-7417-4DFA-B856-7252EA4E5F3C
+
+CCpResource ios/Icon-144.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-144.png
+s420080050.320036
+e420080050.329897
+r1
+xCpResource
+xios/Icon-144.png
+x/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Icon-144.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Icon-144.png124"[1mCpResource[0m ios/Icon-144.png [1m/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-144.png[0m970252b2e909b941^547454b2e909b941^---0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj%20iOS.app/Icon-144.png0038d42ddfffdf42^882"[1mCpResource[0m ios/Icon-144.png [1m/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-144.png[0m    cd /Users/kodamatakashi/Documents/TestPj/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/share/ant/bin:/Applications/android/sdk/tools:/Applications/android/sdk/platform-tools:/Applications/android/sdk:/Applications/android-ndk-r9:/Users/kodamatakashi/cocos2d-x-3.0rc2/tools/cocos2d-console/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Icon-144.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app36"91435E12-D5B5-43A8-B07A-425E18FB195E-
+bB1B6A405-7417-4DFA-B856-7252EA4E5F3C
+
+CCpResource ios/Icon-152.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-152.png
+s420080050.305125
+e420080050.317215
+r1
+xCpResource
+xios/Icon-152.png
+x/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Icon-152.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Icon-152.png124"[1mCpResource[0m ios/Icon-152.png [1m/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-152.png[0m50354eb2e909b941^653551b2e909b941^---0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj%20iOS.app/Icon-152.png0038d42ddfffdf42^882"[1mCpResource[0m ios/Icon-152.png [1m/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-152.png[0m    cd /Users/kodamatakashi/Documents/TestPj/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/share/ant/bin:/Applications/android/sdk/tools:/Applications/android/sdk/platform-tools:/Applications/android/sdk:/Applications/android-ndk-r9:/Users/kodamatakashi/cocos2d-x-3.0rc2/tools/cocos2d-console/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Icon-152.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app36"AC2D6865-F2A7-4991-8EAF-F2A42DA608BC-
+bB1B6A405-7417-4DFA-B856-7252EA4E5F3C
+
+CCpResource ios/Icon-29.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-29.png
+s420080050.319486
+e420080050.323331
+r1
+xCpResource
+xios/Icon-29.png
+x/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Icon-29.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Copy /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Icon-29.png122"[1mCpResource[0m ios/Icon-29.png [1m/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-29.png[0m27de51b2e909b941^58c652b2e909b941^---0#0#1#-19%DVTDocumentLocation2@96"file://localhost/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj%20iOS.app/Icon-29.png0038d42ddfffdf42^879"[1mCpResource[0m ios/Icon-29.png [1m/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-29.png[0m    cd /Users/kodamatakashi/Documents/TestPj/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/share/ant/bin:/Applications/android/sdk/tools:/Applications/android/sdk/platform-tools:/Applications/android/sdk:/Applications/android-ndk-r9:/Users/kodamatakashi/cocos2d-x-3.0rc2/tools/cocos2d-console/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Icon-29.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app36"90004B1D-6492-44EE-A1EB-019B8B11D3BC-
+bB1B6A405-7417-4DFA-B856-7252EA4E5F3C
+
+CCpResource ios/Icon-40.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-40.png
+s420080050.319490
+e420080050.325176
+r1
+xCpResource
+xios/Icon-40.png
+x/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Icon-40.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Copy /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Icon-40.png122"[1mCpResource[0m ios/Icon-40.png [1m/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-40.png[0m55df51b2e909b941^313f53b2e909b941^---0#0#1#-19%DVTDocumentLocation2@96"file://localhost/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj%20iOS.app/Icon-40.png0038d42ddfffdf42^879"[1mCpResource[0m ios/Icon-40.png [1m/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-40.png[0m    cd /Users/kodamatakashi/Documents/TestPj/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/share/ant/bin:/Applications/android/sdk/tools:/Applications/android/sdk/platform-tools:/Applications/android/sdk:/Applications/android-ndk-r9:/Users/kodamatakashi/cocos2d-x-3.0rc2/tools/cocos2d-console/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Icon-40.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app36"EEE4AA5C-BE20-4FC9-A686-9580A6489E31-
+bB1B6A405-7417-4DFA-B856-7252EA4E5F3C
+
+CCpResource ios/Icon-50.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-50.png
+s420080050.312144
+e420080050.320405
+r1
+xCpResource
+xios/Icon-50.png
+x/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Icon-50.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Copy /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Icon-50.png122"[1mCpResource[0m ios/Icon-50.png [1m/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-50.png[0mb5f94fb2e909b941^530652b2e909b941^---0#0#1#-19%DVTDocumentLocation2@96"file://localhost/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj%20iOS.app/Icon-50.png0038d42ddfffdf42^879"[1mCpResource[0m ios/Icon-50.png [1m/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-50.png[0m    cd /Users/kodamatakashi/Documents/TestPj/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/share/ant/bin:/Applications/android/sdk/tools:/Applications/android/sdk/platform-tools:/Applications/android/sdk:/Applications/android-ndk-r9:/Users/kodamatakashi/cocos2d-x-3.0rc2/tools/cocos2d-console/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Icon-50.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app36"3D021A46-CD2D-4F61-9FDE-040A89B7808F-
+bB1B6A405-7417-4DFA-B856-7252EA4E5F3C
+
+CCpResource ios/Icon-57.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-57.png
+s420080050.321059
+e420080050.329806
+r1
+xCpResource
+xios/Icon-57.png
+x/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Icon-57.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Copy /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Icon-57.png122"[1mCpResource[0m ios/Icon-57.png [1m/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-57.png[0mc04252b2e909b941^7e6e54b2e909b941^---0#0#1#-19%DVTDocumentLocation2@96"file://localhost/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj%20iOS.app/Icon-57.png0038d42ddfffdf42^879"[1mCpResource[0m ios/Icon-57.png [1m/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-57.png[0m    cd /Users/kodamatakashi/Documents/TestPj/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/share/ant/bin:/Applications/android/sdk/tools:/Applications/android/sdk/platform-tools:/Applications/android/sdk:/Applications/android-ndk-r9:/Users/kodamatakashi/cocos2d-x-3.0rc2/tools/cocos2d-console/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Icon-57.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app36"F8FAA469-27A1-40C4-969E-D8E4095EA067-
+bB1B6A405-7417-4DFA-B856-7252EA4E5F3C
+
+CCpResource ios/Icon-58.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-58.png
+s420080050.324425
+e420080050.332351
+r1
+xCpResource
+xios/Icon-58.png
+x/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Icon-58.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Copy /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Icon-58.png122"[1mCpResource[0m ios/Icon-58.png [1m/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-58.png[0mf22253b2e909b941^9c1555b2e909b941^---0#0#1#-19%DVTDocumentLocation2@96"file://localhost/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj%20iOS.app/Icon-58.png0038d42ddfffdf42^879"[1mCpResource[0m ios/Icon-58.png [1m/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-58.png[0m    cd /Users/kodamatakashi/Documents/TestPj/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/share/ant/bin:/Applications/android/sdk/tools:/Applications/android/sdk/platform-tools:/Applications/android/sdk:/Applications/android-ndk-r9:/Users/kodamatakashi/cocos2d-x-3.0rc2/tools/cocos2d-console/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Icon-58.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app36"F0B37DCC-4C85-4EB8-9A60-1A2B3B66FD6A-
+bB1B6A405-7417-4DFA-B856-7252EA4E5F3C
+
+CCpResource ios/Icon-72.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-72.png
+s420080050.305362
+e420080050.318254
+r1
+xCpResource
+xios/Icon-72.png
+x/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Icon-72.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Copy /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Icon-72.png122"[1mCpResource[0m ios/Icon-72.png [1m/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-72.png[0m573f4eb2e909b941^147a51b2e909b941^---0#0#1#-19%DVTDocumentLocation2@96"file://localhost/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj%20iOS.app/Icon-72.png0038d42ddfffdf42^879"[1mCpResource[0m ios/Icon-72.png [1m/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-72.png[0m    cd /Users/kodamatakashi/Documents/TestPj/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/share/ant/bin:/Applications/android/sdk/tools:/Applications/android/sdk/platform-tools:/Applications/android/sdk:/Applications/android-ndk-r9:/Users/kodamatakashi/cocos2d-x-3.0rc2/tools/cocos2d-console/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Icon-72.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app36"7966F240-607A-4D14-A249-2E71E2715E06-
+bB1B6A405-7417-4DFA-B856-7252EA4E5F3C
+
+CCpResource ios/Icon-76.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-76.png
+s420080050.304996
+e420080050.311222
+r1
+xCpResource
+xios/Icon-76.png
+x/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Icon-76.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Copy /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Icon-76.png122"[1mCpResource[0m ios/Icon-76.png [1m/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-76.png[0m01304eb2e909b941^b4ac4fb2e909b941^---0#0#1#-19%DVTDocumentLocation2@96"file://localhost/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj%20iOS.app/Icon-76.png0038d42ddfffdf42^879"[1mCpResource[0m ios/Icon-76.png [1m/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-76.png[0m    cd /Users/kodamatakashi/Documents/TestPj/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/share/ant/bin:/Applications/android/sdk/tools:/Applications/android/sdk/platform-tools:/Applications/android/sdk:/Applications/android-ndk-r9:/Users/kodamatakashi/cocos2d-x-3.0rc2/tools/cocos2d-console/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Icon-76.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app36"DBC73722-C424-48A6-BA92-23748EFED5A8-
+bB1B6A405-7417-4DFA-B856-7252EA4E5F3C
+
+CCpResource ios/Icon-80.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-80.png
+s420080050.320932
+e420080050.328526
+r1
+xCpResource
+xios/Icon-80.png
+x/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Icon-80.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Copy /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Icon-80.png122"[1mCpResource[0m ios/Icon-80.png [1m/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-80.png[0m433852b2e909b941^bd1a54b2e909b941^---0#0#1#-19%DVTDocumentLocation2@96"file://localhost/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj%20iOS.app/Icon-80.png0038d42ddfffdf42^879"[1mCpResource[0m ios/Icon-80.png [1m/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Icon-80.png[0m    cd /Users/kodamatakashi/Documents/TestPj/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/share/ant/bin:/Applications/android/sdk/tools:/Applications/android/sdk/platform-tools:/Applications/android/sdk:/Applications/android-ndk-r9:/Users/kodamatakashi/cocos2d-x-3.0rc2/tools/cocos2d-console/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Icon-80.png /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app36"DF5EDE57-C62E-4A67-BC08-DE0A73590D14-
+bB1B6A405-7417-4DFA-B856-7252EA4E5F3C
+
+CGenerateDSYMFile /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app.dSYM /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/TestPj\ iOS
+s420080051.270108
+e420080055.484608
+r1
+xGenerateDSYMFile
+x/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app.dSYM
+x/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/TestPj iOS
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Generate /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app.dSYM185"[1mGenerateDSYMFile[0m [1m/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app.dSYM[0m /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/TestPj\ iOS7a3845b3e909b941^0e107cb7e909b941^---0#0#1#-19%DVTDocumentLocation2@90"file://localhost/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj%20iOS.app.dSYM/0000000000000000^951"[1mGenerateDSYMFile[0m [1m/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app.dSYM[0m /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/TestPj\ iOS    cd /Users/kodamatakashi/Documents/TestPj/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/share/ant/bin:/Applications/android/sdk/tools:/Applications/android/sdk/platform-tools:/Applications/android/sdk:/Applications/android-ndk-r9:/Users/kodamatakashi/cocos2d-x-3.0rc2/tools/cocos2d-console/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/TestPj\ iOS -o /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app.dSYM36"2EBAA067-560D-4C82-83F7-B33A77770EDA-
+bB1B6A405-7417-4DFA-B856-7252EA4E5F3C
+
+CLd /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/TestPj\ iOS normal i386
+s420080050.361057
+e420080051.261186
+r1
+xLd
+x/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/TestPj iOS
+xnormal
+xi386
+d/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj iOS.build/Objects-normal/i386/TestPj iOS.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj iOS.build/Objects-normal/i386/AppController.o
+d/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj iOS.build/Objects-normal/i386/RootViewController.o
+d/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj iOS.build/Objects-normal/i386/AppDelegate.o
+d/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj iOS.build/Objects-normal/i386/main.o
+d/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj iOS.build/Objects-normal/i386/HelloWorldScene.o
+d/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/libbox2d iOS.a
+d/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/libchipmunk iOS.a
+d/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/libcocos2dx iOS.a
+d/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/libcocos2dx-extensions iOS.a
+d/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/libCocosDenshion iOS.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMotion.framework/CoreMotion
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libz.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphonesimulator.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libc++abi.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libdnsinfo.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Link /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/TestPj iOS102"[1mLd[0m /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/TestPj\ iOS normal i38630845cb2e909b941^addd42b3e909b941^---0#0#1#--2142"[1mLd[0m /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/TestPj\ iOS normal i386    cd /Users/kodamatakashi/Documents/TestPj/proj.ios_mac    export IPHONEOS_DEPLOYMENT_TARGET=5.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/share/ant/bin:/Applications/android/sdk/tools:/Applications/android/sdk/platform-tools:/Applications/android/sdk:/Applications/android-ndk-r9:/Users/kodamatakashi/cocos2d-x-3.0rc2/tools/cocos2d-console/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/kodamatakashi/Documents/TestPj/bin/debug/ios -F/Users/kodamatakashi/Documents/TestPj/bin/debug/ios -filelist /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/Objects-normal/i386/TestPj\ iOS.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -stdlib=libc++ -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.0 /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/libbox2d\ iOS.a /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/libchipmunk\ iOS.a /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/libcocos2dx\ iOS.a /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/libcocos2dx-extensions\ iOS.a /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/libCocosDenshion\ iOS.a -framework CoreMotion -framework Foundation -framework UIKit -framework CoreGraphics -framework OpenGLES -lz -framework QuartzCore -framework OpenAL -framework AVFoundation -framework AudioToolbox -Xlinker -dependency_info -Xlinker /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/Objects-normal/i386/TestPj\ iOS_dependency_info.dat -o /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/TestPj\ iOS36"0B4DBBEC-3676-4982-8F53-821357EF27DF-
+bB1B6A405-7417-4DFA-B856-7252EA4E5F3C
+
+CProcessInfoPlistFile /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Info.plist /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Info.plist
+s420080050.291552
+e420080050.296738
+r1
+xProcessInfoPlistFile
+x/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj iOS.app/Info.plist
+x/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Process /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Info.plist130"[1mProcessInfoPlistFile[0m /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Info.plist [1mios/Info.plist[0m78b74ab2e909b941^8cf74bb2e909b941^---0#0#1#-19%DVTDocumentLocation2@81"file://localhost/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Info.plist0000000000000000^967"[1mProcessInfoPlistFile[0m /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Info.plist [1mios/Info.plist[0m    cd /Users/kodamatakashi/Documents/TestPj/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/share/ant/bin:/Applications/android/sdk/tools:/Applications/android/sdk/platform-tools:/Applications/android/sdk:/Applications/android-ndk-r9:/Users/kodamatakashi/cocos2d-x-3.0rc2/tools/cocos2d-console/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-infoPlistUtility /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Info.plist -genpkginfo /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app/Info.plist36"19B4DDC3-0212-4E47-AAFF-206C39E25E41-
+bB1B6A405-7417-4DFA-B856-7252EA4E5F3C
+
+CProcessPCH /var/folders/02/5yl6qgx90kl8tjr117sjz5fw0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-bpnonnljwmywruaksaclrxnygysr/Prefix.pch.pch ios/Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419755833.331534
+e419755833.610128
+r1
+xProcessPCH
+x/var/folders/02/5yl6qgx90kl8tjr117sjz5fw0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-bpnonnljwmywruaksaclrxnygysr/Prefix.pch.pch
+xios/Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection25"Precompile ios/Prefix.pch268"[1mProcessPCH[0m /var/folders/02/5yl6qgx90kl8tjr117sjz5fw0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-bpnonnljwmywruaksaclrxnygysr/Prefix.pch.pch ios/Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere7005539f704b941^9c319c39f704b941^---0#0#1#-19%DVTDocumentLocation2@81"file://localhost/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Prefix.pch0000000000000000^4421"[1mProcessPCH[0m /var/folders/02/5yl6qgx90kl8tjr117sjz5fw0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-bpnonnljwmywruaksaclrxnygysr/Prefix.pch.pch ios/Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kodamatakashi/Documents/TestPj/proj.ios_mac    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/share/ant/bin:/Applications/android/sdk/tools:/Applications/android/sdk/platform-tools:/Applications/android/sdk:/Applications/android-ndk-r9:/Users/kodamatakashi/cocos2d-x-3.0rc2/tools/cocos2d-console/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=111 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DUSE_FILE32API -DCC_TARGET_OS_IPHONE -DCOCOS2D_DEBUG=1 -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/TestPj\ iOS.hmap -I/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/include -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/base -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/physics -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/math/kazmath -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/2d -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/ui -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/network -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/audio/include -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/editor-support -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/extensions -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/external -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/external/chipmunk/include/chipmunk -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/2d/platform/ios -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/2d/platform/ios/Simulation -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/DerivedSources/i386 -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/DerivedSources -F/Users/kodamatakashi/Documents/TestPj/bin/debug/ios --serialize-diagnostics /var/folders/02/5yl6qgx90kl8tjr117sjz5fw0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-bpnonnljwmywruaksaclrxnygysr/Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/02/5yl6qgx90kl8tjr117sjz5fw0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-bpnonnljwmywruaksaclrxnygysr/Prefix.pch.d -c /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Prefix.pch -o /var/folders/02/5yl6qgx90kl8tjr117sjz5fw0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-bpnonnljwmywruaksaclrxnygysr/Prefix.pch.pch36"9DAC68CA-A151-4CE5-B042-111324E91A1A-
+bAAC1F9EE-BFD8-4144-8A6A-CA80AE9AF88D
+
+CProcessPCH++ /var/folders/02/5yl6qgx90kl8tjr117sjz5fw0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-ewqptykyjvhxzufkwzkirsoohbrn/Prefix.pch.pch ios/Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s419755833.330084
+e419755833.351849
+r1
+xProcessPCH++
+x/var/folders/02/5yl6qgx90kl8tjr117sjz5fw0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-ewqptykyjvhxzufkwzkirsoohbrn/Prefix.pch.pch
+xios/Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection25"Precompile ios/Prefix.pch262"[1mProcessPCH++[0m /var/folders/02/5yl6qgx90kl8tjr117sjz5fw0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-ewqptykyjvhxzufkwzkirsoohbrn/Prefix.pch.pch ios/Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler20975439f704b941^7f135a39f704b941^---0#0#1#-19%DVTDocumentLocation2@81"file://localhost/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Prefix.pch0000000000000000^4295"[1mProcessPCH++[0m /var/folders/02/5yl6qgx90kl8tjr117sjz5fw0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-ewqptykyjvhxzufkwzkirsoohbrn/Prefix.pch.pch ios/Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kodamatakashi/Documents/TestPj/proj.ios_mac    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/share/ant/bin:/Applications/android/sdk/tools:/Applications/android/sdk/platform-tools:/Applications/android/sdk:/Applications/android-ndk-r9:/Users/kodamatakashi/cocos2d-x-3.0rc2/tools/cocos2d-console/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch i386 -fmessage-length=111 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DUSE_FILE32API -DCC_TARGET_OS_IPHONE -DCOCOS2D_DEBUG=1 -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/TestPj\ iOS.hmap -I/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/include -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/base -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/physics -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/math/kazmath -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/2d -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/ui -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/network -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/audio/include -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/editor-support -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/extensions -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/external -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/external/chipmunk/include/chipmunk -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/2d/platform/ios -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/2d/platform/ios/Simulation -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/DerivedSources/i386 -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/DerivedSources -F/Users/kodamatakashi/Documents/TestPj/bin/debug/ios --serialize-diagnostics /var/folders/02/5yl6qgx90kl8tjr117sjz5fw0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-ewqptykyjvhxzufkwzkirsoohbrn/Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/02/5yl6qgx90kl8tjr117sjz5fw0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-ewqptykyjvhxzufkwzkirsoohbrn/Prefix.pch.d -c /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Prefix.pch -o /var/folders/02/5yl6qgx90kl8tjr117sjz5fw0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-ewqptykyjvhxzufkwzkirsoohbrn/Prefix.pch.pch36"306194BD-2F6B-4416-B75C-F2611F5AD25C-
+bAAC1F9EE-BFD8-4144-8A6A-CA80AE9AF88D
+
+CProcessPCH++ /var/folders/02/5yl6qgx90kl8tjr117sjz5fw0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-fuchmruxtwrdiocpkkivpkfyclva/Prefix.pch.pch ios/Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s419755833.328768
+e419755833.697059
+r1
+xProcessPCH++
+x/var/folders/02/5yl6qgx90kl8tjr117sjz5fw0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-fuchmruxtwrdiocpkkivpkfyclva/Prefix.pch.pch
+xios/Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection25"Precompile ios/Prefix.pch272"[1mProcessPCH++[0m /var/folders/02/5yl6qgx90kl8tjr117sjz5fw0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-fuchmruxtwrdiocpkkivpkfyclva/Prefix.pch.pch ios/Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compilere84e5439f704b941^6d74b239f704b941^---0#0#1#-19%DVTDocumentLocation2@81"file://localhost/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Prefix.pch0000000000000000^4552"[1mProcessPCH++[0m /var/folders/02/5yl6qgx90kl8tjr117sjz5fw0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-fuchmruxtwrdiocpkkivpkfyclva/Prefix.pch.pch ios/Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kodamatakashi/Documents/TestPj/proj.ios_mac    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/share/ant/bin:/Applications/android/sdk/tools:/Applications/android/sdk/platform-tools:/Applications/android/sdk:/Applications/android-ndk-r9:/Users/kodamatakashi/cocos2d-x-3.0rc2/tools/cocos2d-console/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++-header -arch i386 -fmessage-length=111 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DUSE_FILE32API -DCC_TARGET_OS_IPHONE -DCOCOS2D_DEBUG=1 -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/TestPj\ iOS.hmap -I/Users/kodamatakashi/Documents/TestPj/bin/debug/ios/include -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/base -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/physics -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/math/kazmath -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/2d -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/ui -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/network -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/audio/include -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/editor-support -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/extensions -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/external -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/external/chipmunk/include/chipmunk -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/2d/platform/ios -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/../cocos2d/cocos/2d/platform/ios/Simulation -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/DerivedSources/i386 -I/Users/kodamatakashi/Documents/TestPj/proj.ios_mac/build/TestPj.build/Debug-iphonesimulator/TestPj\ iOS.build/DerivedSources -F/Users/kodamatakashi/Documents/TestPj/bin/debug/ios --serialize-diagnostics /var/folders/02/5yl6qgx90kl8tjr117sjz5fw0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-fuchmruxtwrdiocpkkivpkfyclva/Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/02/5yl6qgx90kl8tjr117sjz5fw0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-fuchmruxtwrdiocpkkivpkfyclva/Prefix.pch.d -c /Users/kodamatakashi/Documents/TestPj/proj.ios_mac/ios/Prefix.pch -o /var/folders/02/5yl6qgx90kl8tjr117sjz5fw0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Prefix-fuchmruxtwrdiocpkkivpkfyclva/Prefix.pch.pch36"1E4A7BF6-F510-4236-A46D-92AF1C584E22-
+bAAC1F9EE-BFD8-4144-8A6A-CA80AE9AF88D
+
+CTouch /Users/kodamatakashi/Documents/TestPj/bin/debug/ios/TestPj\ iOS.app
+r0
+
